@@ -1,2 +1,2 @@
-# veriyapilari
+# Veri Yapıları
  
